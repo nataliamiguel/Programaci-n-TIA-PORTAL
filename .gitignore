@@ -26,3 +26,6 @@ Plantilla_V18/IM/SearchIndex/segments.gen
 *.lock
 *.info
 *.3
+*.gen
+Plantilla_V18/IM/SearchIndex/segments_1wf
+Plantilla_V18/IM/SearchIndex/segments_1wg
