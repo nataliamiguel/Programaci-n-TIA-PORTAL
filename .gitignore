@@ -22,3 +22,7 @@ Plantilla_V18/IM/SearchIndex/segments.gen
 *.cfs
 *.fdt
 *.frq
+*.gen
+*.lock
+*.info
+*.3
